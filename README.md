@@ -1,96 +1,80 @@
-**Website Performance Testing using WebPageTest**
+Website Performance Testing using WebPageTest
 
-
-
-1\.📌 Project Overview
-
-
+1.📌 Project Overview
 
 This project demonstrates website performance testing using WebPageTest.
 
+The website was tested to analyze loading speed, rendering performance, page weight, number of requests, and other important performance metrics.
 
+2.🛠️ Tool Used
 
-The website was tested to analyze loading speed, rendering performance,
+- WebPageTest
 
-page weight, number of requests, and other performance metrics.
+3.🎯 Testing Objectives
 
+- Analyze website loading speed
+- Measure page performance
+- Check rendering performance
+- Analyze page size and resource usage
+- Identify performance-related issues
+- Understand website performance metrics
 
+4.📊 Performance Metrics
 
-2\.🛠️ Tool Used
+The following metrics were analyzed during testing:
 
+- Load Time
+- First Contentful Paint
+- Largest Contentful Paint
+- Speed Index
+- Total Page Size
+- Number of Requests
+- Performance Score
 
+5.🔍 Testing Process
 
-\- WebPageTest
+1. Opened WebPageTest.
+2. Entered the website URL.
+3. Selected the testing location and browser.
+4. Started the performance test.
+5. Analyzed the generated performance report.
+6. Captured screenshots of the test results.
+7. Documented the results in this repository.
 
+## 📸 Screenshots
 
+### Performance Test Result
 
-3\.📊 Test Results
+![Performance Test Result](Screenshot%202026-08-30%20102847.png)
 
+### Performance Metrics
 
+![Performance Metrics](Screenshot%202026-08-30%20102859.png)
 
-| Metric | Result |
+### Test Report
 
-|---|---:|
+![Test Report](Screenshot%202026-08-30%20102933.png)
 
-| First Content ful Paint (FCP) | 0.941 s |
+6.💡 Key Learning
 
-| Largest Conten tful Paint (LCP) | 1.16 s |
+Through this project, I learned how to:
 
-| Cumulative Layout Shift (CLS) | 0 |
+- Perform website performance testing
+- Analyze web performance metrics
+- Understand page loading behavior
+- Identify potential performance issues
+- Use WebPageTest for performance analysis
+- Document testing results using GitHub
 
-| Time To First Byte (TTFB) | 0.64 s |
+7.🚀 Future Improvements
 
-| Start Render | 0.9 s |
+- Perform testing on multiple websites
+- Compare performance between websites
+- Automate performance testing
+- Create a performance monitoring dashboard
 
-| Speed Index | 1.084 s |
+8.👩‍💻 Author
+**Selvapriya G**
 
-| Total Blocking Time | 0 s |
-
-| Page Weight | 1 MB |
-
-| Total Requests | 36 |
-
-| Total Time | 2.035 s |
-
-
-
-4\.🔍 Issues Identified
-
-
-
-\- 2 render-blocking requests
-
-\- 2 accessibility issues
-
-\- Third-party requests were identified
-
-\- Some HTML was generated after delivery
-
-
-
-5\.📸 Test Evidence
-
-
-
-!\[WebPage Test Result](WebPageTest-Result.png)
-
-
-
-\## 🎯 Conclusion
-
-
-
-The website showed good overall loading performance.
-
-However, the identified accessibility, render-blocking, and
-
-third-party dependency issues should be reviewed for further optimization.
-
-
-
-6\.👩‍💻 Project By
-
-
-
-Selvapriya
+B.Tech Artificial Intelligence & Data Science Student
 
