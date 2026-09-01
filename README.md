@@ -1,16 +1,16 @@
-Website Performance Testing using WebPageTest
+## Website Performance Testing using WebPageTest
 
-1.📌 Project Overview
+## 📌 Project Overview
 
 This project demonstrates website performance testing using WebPageTest.
 
 The website was tested to analyze loading speed, rendering performance, page weight, number of requests, and other important performance metrics.
 
-2.🛠️ Tool Used
+## 🛠️ Tool Used
 
 - WebPageTest
 
-3.🎯 Testing Objectives
+## 🎯 Testing Objectives
 
 - Analyze website loading speed
 - Measure page performance
@@ -19,7 +19,7 @@ The website was tested to analyze loading speed, rendering performance, page wei
 - Identify performance-related issues
 - Understand website performance metrics
 
-4.📊 Performance Metrics
+## 📊 Performance Metrics
 
 The following metrics were analyzed during testing:
 
@@ -31,7 +31,7 @@ The following metrics were analyzed during testing:
 - Number of Requests
 - Performance Score
 
-5.🔍 Testing Process
+## 🔍 Testing Process
 
 1. Opened WebPageTest.
 2. Entered the website URL.
@@ -55,7 +55,7 @@ The following metrics were analyzed during testing:
 
 ![Test Report](Screenshot%202026-08-30%20102933.png)
 
-6.💡 Key Learning
+## 💡 Key Learning
 
 Through this project, I learned how to:
 
@@ -66,16 +66,15 @@ Through this project, I learned how to:
 - Use WebPageTest for performance analysis
 - Document testing results using GitHub
 
-7.🚀 Future Improvements
+## 🚀 Future Improvements
 
 - Perform testing on multiple websites
 - Compare performance between websites
 - Automate performance testing
 - Create a performance monitoring dashboard
 
-8.👩‍💻 Author
+## Completed By
 
 **Selvapriya G**
-
 B.Tech Artificial Intelligence & Data Science Student
 
